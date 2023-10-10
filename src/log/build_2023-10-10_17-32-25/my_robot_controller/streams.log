@@ -1,0 +1,36 @@
+[0.435s] Invoking command in '/Users/fabio/Documents/Projects/ros2_ws/src/my_robot_controller': CONDA_PROMPT_MODIFIER=(ros_env) PYTHONPATH=/Users/fabio/Documents/Projects/ros2_ws/src/build/my_robot_controller/prefix_override:/Users/fabio/Documents/Projects/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} SHLVL=2 _=/Users/fabio/miniconda3/envs/ros_env/envs/ros_env/bin/env __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x2 /Users/fabio/miniconda3/envs/ros_env/envs/ros_env/bin/python3.10 setup.py egg_info --egg-base ../build/my_robot_controller build --build-base /Users/fabio/Documents/Projects/ros2_ws/src/build/my_robot_controller/build install --record /Users/fabio/Documents/Projects/ros2_ws/src/build/my_robot_controller/install.log --single-version-externally-managed
+[0.575s] running egg_info
+[0.575s] creating ../build/my_robot_controller/my_robot_controller.egg-info
+[0.576s] writing ../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
+[0.576s] writing dependency_links to ../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
+[0.576s] writing entry points to ../build/my_robot_controller/my_robot_controller.egg-info/entry_points.txt
+[0.576s] writing requirements to ../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
+[0.576s] writing top-level names to ../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
+[0.576s] writing manifest file '../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.577s] reading manifest file '../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.578s] writing manifest file '../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.578s] running build
+[0.578s] running build_py
+[0.578s] creating /Users/fabio/Documents/Projects/ros2_ws/src/build/my_robot_controller/build
+[0.578s] creating /Users/fabio/Documents/Projects/ros2_ws/src/build/my_robot_controller/build/lib
+[0.578s] creating /Users/fabio/Documents/Projects/ros2_ws/src/build/my_robot_controller/build/lib/my_robot_controller
+[0.578s] copying my_robot_controller/my_first_node.py -> /Users/fabio/Documents/Projects/ros2_ws/src/build/my_robot_controller/build/lib/my_robot_controller
+[0.578s] copying my_robot_controller/__init__.py -> /Users/fabio/Documents/Projects/ros2_ws/src/build/my_robot_controller/build/lib/my_robot_controller
+[0.578s] running install
+[0.579s] running install_lib
+[0.579s] creating /Users/fabio/Documents/Projects/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[0.579s] copying /Users/fabio/Documents/Projects/ros2_ws/src/build/my_robot_controller/build/lib/my_robot_controller/my_first_node.py -> /Users/fabio/Documents/Projects/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[0.579s] copying /Users/fabio/Documents/Projects/ros2_ws/src/build/my_robot_controller/build/lib/my_robot_controller/__init__.py -> /Users/fabio/Documents/Projects/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[0.580s] byte-compiling /Users/fabio/Documents/Projects/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/my_first_node.py to my_first_node.cpython-310.pyc
+[0.580s] byte-compiling /Users/fabio/Documents/Projects/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/__init__.py to __init__.cpython-310.pyc
+[0.580s] running install_data
+[0.580s] creating /Users/fabio/Documents/Projects/ros2_ws/src/install/my_robot_controller/share/ament_index
+[0.580s] creating /Users/fabio/Documents/Projects/ros2_ws/src/install/my_robot_controller/share/ament_index/resource_index
+[0.581s] creating /Users/fabio/Documents/Projects/ros2_ws/src/install/my_robot_controller/share/ament_index/resource_index/packages
+[0.581s] copying resource/my_robot_controller -> /Users/fabio/Documents/Projects/ros2_ws/src/install/my_robot_controller/share/ament_index/resource_index/packages
+[0.581s] copying package.xml -> /Users/fabio/Documents/Projects/ros2_ws/src/install/my_robot_controller/share/my_robot_controller
+[0.581s] running install_egg_info
+[0.582s] Copying ../build/my_robot_controller/my_robot_controller.egg-info to /Users/fabio/Documents/Projects/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info
+[0.583s] running install_scripts
+[0.599s] writing list of installed files to '/Users/fabio/Documents/Projects/ros2_ws/src/build/my_robot_controller/install.log'
+[0.612s] Invoked command in '/Users/fabio/Documents/Projects/ros2_ws/src/my_robot_controller' returned '0': CONDA_PROMPT_MODIFIER=(ros_env) PYTHONPATH=/Users/fabio/Documents/Projects/ros2_ws/src/build/my_robot_controller/prefix_override:/Users/fabio/Documents/Projects/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} SHLVL=2 _=/Users/fabio/miniconda3/envs/ros_env/envs/ros_env/bin/env __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x2 /Users/fabio/miniconda3/envs/ros_env/envs/ros_env/bin/python3.10 setup.py egg_info --egg-base ../build/my_robot_controller build --build-base /Users/fabio/Documents/Projects/ros2_ws/src/build/my_robot_controller/build install --record /Users/fabio/Documents/Projects/ros2_ws/src/build/my_robot_controller/install.log --single-version-externally-managed
